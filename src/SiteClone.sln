@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiteClone", "SiteClone\SiteClone.csproj", "{CBAFE390-351A-4BE6-9896-FF30EE8741A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteCloneConsole", "SiteCloneConsole\SiteCloneConsole.csproj", "{5019E14C-EDF8-4355-B8E1-E701524872FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAFE390-351A-4BE6-9896-FF30EE8741A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAFE390-351A-4BE6-9896-FF30EE8741A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAFE390-351A-4BE6-9896-FF30EE8741A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAFE390-351A-4BE6-9896-FF30EE8741A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5019E14C-EDF8-4355-B8E1-E701524872FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5019E14C-EDF8-4355-B8E1-E701524872FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5019E14C-EDF8-4355-B8E1-E701524872FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5019E14C-EDF8-4355-B8E1-E701524872FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {340637B1-C09E-48E4-B096-24ECCD13E581}
+	EndGlobalSection
+EndGlobal
