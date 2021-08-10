@@ -1,14 +1,25 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>9.0</LangVersion>
     <RootNamespace>Whikiey.SiteClone</RootNamespace>
     <AssemblyName>Whikiey.SiteClone</AssemblyName>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Authors>Whikiey</Authors>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/Whikiey/siteclone.git</RepositoryUrl>
+    <Description>
+      Clone a web site to local directory. Download all resources from an URL,
+      resolve all URLs of this site to relatives and get the related pages in html/css files,
+      then save as right format, you can view the local files as a website in Chrome.
+    </Description>
+    <Title>Site Clone</Title>
+    <Keyword>clonesite,siteclone,clone website,clone site,download website,download site,download webpage</Keyword>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.34" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.9.0" />
   </ItemGroup>
-
 </Project>
