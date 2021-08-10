@@ -8,7 +8,7 @@
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Authors>Whikiey</Authors>
     <RepositoryType>Git</RepositoryType>
-    <RepositoryUrl>https://github.com/Whikiey/siteclone.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Whikiey/siteclone</RepositoryUrl>
     <Description>
       Clone a web site to local directory. Download all resources from an URL,
       resolve all URLs of this site to relatives and get the related pages in html/css files,
